@@ -7,6 +7,14 @@ Provides basic support for connecting a client application to the [Open Research
 Originally created for the [ORCID example client application in Rails](https://github.com/gthorisson/ORCID-example-client-app-rails), then turned into a gem.
 
 
+-------
+## ATTENTION
+
+**This gem is now maintained by [DataCite](http://www.datacite.org) and development has moved to https://github.com/datacite/omniauth-orcid**
+
+
+--------
+
 
 ## Installation
 
